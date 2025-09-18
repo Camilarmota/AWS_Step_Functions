@@ -69,11 +69,4 @@ Neste projeto:
 
 ---
 
-## 📌 Próximos Passos / Melhorias Futuras
-
-* Adicionar validações extras (ex: endereço inválido).
-* Criar logs de auditoria no CloudWatch.
-* Integrar com notificações via SNS para alertar sobre pedidos excluídos.
-
----
 
