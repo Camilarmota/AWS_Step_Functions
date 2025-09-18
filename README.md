@@ -1,5 +1,4 @@
 ---
-
 # Simulação de Pedido com Step Functions, DynamoDB e Lambda
 
 ## 📖 Descrição do Projeto
@@ -7,13 +6,6 @@
 Esse projeto é inspirado no canal **"Be A Better Dev"**.
 
 Ele simula a entrada de um pedido no **Step Function**, representando uma compra no valor de **\$200**.
-O pedido é armazenado em uma tabela JSON do **DynamoDB** contendo:
-
-* **ID do pedido**
-* **ID do cliente**
-* **Valor da transação**
-* **Dia e hora do pedido**
-* **Endereço do cliente**
 
 Além disso, uma **função Lambda** foi utilizada para **deletar automaticamente** o pedido sempre que o valor for **maior que \$200**, removendo-o do DynamoDB.
 
