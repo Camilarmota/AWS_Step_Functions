@@ -1,5 +1,5 @@
 ---
-# Simulação de Pedido com Step Functions, DynamoDB e Lambda
+# Serverless Workflow de Pedido com Step Functions, DynamoDB e Lambda
 
 ## 📖 Descrição do Projeto
 
